@@ -1,0 +1,6 @@
+{
+  "name": "CNET54 Recovery Lab",
+  "description": "Interactive Windows 11 and Hiren's BootCD PE administrative account recovery, Local Group Policy, and security audit logging simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
